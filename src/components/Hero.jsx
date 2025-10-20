@@ -20,7 +20,7 @@ const Hero = () => {
           playsInline
         ></video>
         <button>Buy</button>
-        <p>From $1599 or $133/mon for 12 months</p>{" "}
+        <p>From $1599 or $133/mon for 12 months</p>
       </div>
     </section>
   );
